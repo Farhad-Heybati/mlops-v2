@@ -11,10 +11,10 @@ parameters:
     displayName: New Project Repository Name
     type: string
 
-  #- name: mlOpsProjectTemplateAdoProjectName
-  #  displayName: MLOps Project Template's ADO project name
-  #  type: string
-  #  # default: [good idea to put your default here]
+  - name: mlOpsProjectTemplateAdoProjectName
+    displayName: MLOps Project Template's ADO project name
+    type: string
+  # default: [good idea to put your default here]
 
   - name: mlopsRepoName
     displayName: MLOps-V2 ADO Repository name
